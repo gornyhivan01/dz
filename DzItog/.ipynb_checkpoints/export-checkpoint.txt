@@ -1,0 +1,250 @@
+27.12.2025 00:19:21  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:21  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:24  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:24  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:28  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:28  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:36  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:19:36  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:53432 -> 45.9.148.50:25
+27.12.2025 00:49:33  | [Alert] [1:69905198:2] Exploit.Agent.HTTP.ServerRequest [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 130.12.180.207:60468 -> 31.28.11.106:80
+27.12.2025 01:29:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:29  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:29  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:29:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63710 -> 45.9.148.50:25
+27.12.2025 01:44:16  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 20.65.193.34:51520 -> 31.28.11.106:443
+27.12.2025 01:45:15  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 14.1.29.130:46876 -> 31.28.11.106:5060
+27.12.2025 02:03:33  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:48352 -> 31.28.11.106:80
+27.12.2025 02:03:33  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:48352 -> 31.28.11.106:80
+27.12.2025 02:08:49  | [Alert] [1:69905198:2] Exploit.Agent.HTTP.ServerRequest [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 130.12.180.207:57632 -> 31.28.11.106:80
+27.12.2025 02:33:12  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 103.203.57.3:34378 -> 31.28.11.106:80
+27.12.2025 02:39:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:30  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:30  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:38  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 02:39:38  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:59591 -> 45.9.148.50:25
+27.12.2025 03:02:40  | [Drop] [1:49987431:4] HackTool.Nmap.UDP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {UDP} 216.180.246.165:21998 -> 31.28.11.106:53
+27.12.2025 03:21:39  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 143.244.184.109:5061 -> 31.28.11.106:5060
+27.12.2025 03:27:45  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 139.59.19.118:5393 -> 31.28.11.106:5060
+27.12.2025 03:49:21  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:21  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:29  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:29  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:49:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:63366 -> 45.9.148.50:25
+27.12.2025 03:58:32  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 204.76.203.8:59800 -> 31.28.11.106:80
+27.12.2025 03:58:32  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 204.76.203.8:59800 -> 31.28.11.106:80
+27.12.2025 04:10:18  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 64.95.96.69:5153 -> 31.28.11.106:5060
+27.12.2025 04:59:21  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:21  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:29  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:29  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 04:59:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:52774 -> 45.9.148.50:25
+27.12.2025 05:11:23  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:56334 -> 31.28.11.106:80
+27.12.2025 05:11:23  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:56334 -> 31.28.11.106:80
+27.12.2025 05:26:34  | [Alert] [1:10006811:2] ATTACK PTsecurity Likely Apache HTTP Server 2.4.49 Directory Traversal (CVE-2021-41773) [Classification: Web Application Attack] [Priority: 1] {TCP} 217.160.2.60:38646 -> 31.28.11.106:80
+27.12.2025 05:26:34  | [Alert] [1:10006813:1] ATTACK PTsecurity Apache HTTP Server 2.4.49 RCE attempt (CVE-2021-41773) [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 217.160.2.60:38646 -> 31.28.11.106:80
+27.12.2025 05:26:34  | [Drop] [1:67661076:2] Exploit.CVE-2024-4577.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 217.160.2.60:38660 -> 31.28.11.106:80
+27.12.2025 05:54:32  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:41362 -> 31.28.11.106:80
+27.12.2025 05:54:32  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:41362 -> 31.28.11.106:80
+27.12.2025 06:02:47  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:41132 -> 31.28.11.106:80
+27.12.2025 06:02:47  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 91.224.92.146:41132 -> 31.28.11.106:80
+27.12.2025 06:06:08  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 148.72.169.42:5577 -> 31.28.11.106:5060
+27.12.2025 06:09:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:29  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:29  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:09:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:64720 -> 45.9.148.50:25
+27.12.2025 06:28:38  | [Alert] [1:69905198:2] Exploit.Agent.HTTP.ServerRequest [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 130.12.180.207:51310 -> 31.28.11.106:80
+27.12.2025 06:40:31  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 20.163.15.141:44776 -> 31.28.11.106:80
+27.12.2025 06:59:31  | [Drop] [1:36674245:3] HackTool.Nmap.TLS.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:4953 -> 31.28.11.106:993
+27.12.2025 06:59:41  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:43  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:46  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:46  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:47  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:47  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:47  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:48  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:48  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:50  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:50  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:51  | [Drop] [1:38251264:4] HackTool.Nmap.RTSP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:27651 -> 31.28.11.106:993
+27.12.2025 06:59:51  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:52  | [Drop] [1:38251264:4] HackTool.Nmap.RTSP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:27651 -> 31.28.11.106:993
+27.12.2025 06:59:52  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:52  | [Drop] [1:38251264:4] HackTool.Nmap.RTSP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:27651 -> 31.28.11.106:993
+27.12.2025 06:59:53  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:53  | [Drop] [1:38251264:4] HackTool.Nmap.RTSP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:27651 -> 31.28.11.106:993
+27.12.2025 06:59:54  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 06:59:55  | [Drop] [1:38251250:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:1405 -> 31.28.11.106:993
+27.12.2025 06:59:55  | [Drop] [1:38251264:4] HackTool.Nmap.RTSP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:27651 -> 31.28.11.106:993
+27.12.2025 06:59:56  | [Drop] [1:38251395:2] HackTool.Nmap.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:4611 -> 31.28.11.106:993
+27.12.2025 07:00:00  | [Drop] [1:38251395:2] HackTool.Nmap.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:4611 -> 31.28.11.106:993
+27.12.2025 07:00:02  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 07:00:02  | [Drop] [1:38251395:2] HackTool.Nmap.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:4611 -> 31.28.11.106:993
+27.12.2025 07:00:18  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 07:00:51  | [Drop] [1:38251243:2] HackTool.Nmap.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:14151 -> 31.28.11.106:993
+27.12.2025 07:19:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:29  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:29  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:19:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57147 -> 45.9.148.50:25
+27.12.2025 07:59:39  | [Drop] [1:36674245:3] HackTool.Nmap.TLS.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 64.226.84.156:4953 -> 31.28.11.106:993
+27.12.2025 08:06:59  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 204.76.203.8:60136 -> 31.28.11.106:80
+27.12.2025 08:06:59  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 204.76.203.8:60136 -> 31.28.11.106:80
+27.12.2025 08:29:21  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:21  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:24  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:24  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:28  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:28  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:29:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58263 -> 45.9.148.50:25
+27.12.2025 08:33:43  | [Drop] [1:65646483:6] NetTool.PsiphonVPN.HTTP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58831 -> 172.234.109.241:80
+27.12.2025 08:38:42  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 135.237.126.148:33344 -> 31.28.11.106:80
+27.12.2025 08:55:13  | [Drop] [1:49987431:4] HackTool.Nmap.UDP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {UDP} 198.235.24.85:49899 -> 31.28.11.106:53
+27.12.2025 09:15:34  | [Drop] [1:49987431:4] HackTool.Nmap.UDP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {UDP} 51.158.205.203:61000 -> 31.28.11.106:53
+27.12.2025 09:39:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:24  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:24  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:26  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:26  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:30  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:30  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:38  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 09:39:38  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:61272 -> 45.9.148.50:25
+27.12.2025 10:05:53  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 185.18.236.124:5104 -> 31.28.11.106:5060
+27.12.2025 10:36:04  | [Alert] [1:2018918:4] ET INFO possible Xiaomi phone data leakage DNS [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.78.12.12:54075 -> 77.88.8.8:53
+27.12.2025 10:36:04  | [Alert] [1:2018918:4] ET INFO possible Xiaomi phone data leakage DNS [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 10.78.12.12:58803 -> 77.88.8.8:53
+27.12.2025 10:49:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:26  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:26  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:30  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:30  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:38  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:49:38  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 31.28.11.106:63570 -> 45.9.148.50:25
+27.12.2025 10:59:30  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 20.80.88.134:34344 -> 31.28.11.106:80
+27.12.2025 11:09:06  | [Drop] [1:39294389:3] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 60.23.234.17:39360 -> 31.28.11.106:80
+27.12.2025 11:09:06  | [Drop] [1:68298702:1] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 60.23.234.17:39360 -> 31.28.11.106:80
+27.12.2025 11:42:21  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 104.194.11.208:5118 -> 31.28.11.106:5060
+27.12.2025 11:59:22  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:22  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:29  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:29  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:37  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 11:59:37  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:59104 -> 45.9.148.50:25
+27.12.2025 12:29:12  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 104.194.11.208:5111 -> 31.28.11.106:5060
+27.12.2025 13:02:44  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 40.76.140.215:45196 -> 31.28.11.106:80
+27.12.2025 13:03:00  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 148.72.169.42:5184 -> 31.28.11.106:5060
+27.12.2025 13:09:23  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:23  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:24  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:24  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:26  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:26  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:31  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:31  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:39  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:09:39  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57681 -> 45.9.148.50:25
+27.12.2025 13:24:03  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 20.65.201.33:57848 -> 31.28.11.106:53
+27.12.2025 13:35:00  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 199.127.62.109:5061 -> 31.28.11.106:5060
+27.12.2025 13:35:37  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 185.243.5.77:5063 -> 31.28.11.106:5060
+27.12.2025 13:42:05  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 38.248.90.88:5060 -> 31.28.11.106:5060
+27.12.2025 13:56:53  | [Drop] [1:49987431:4] HackTool.Nmap.UDP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {UDP} 202.96.99.84:16179 -> 31.28.11.106:53
+27.12.2025 13:57:33  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 199.127.62.109:5128 -> 31.28.11.106:5060
+27.12.2025 14:06:34  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 104.194.11.208:5112 -> 31.28.11.106:5060
+27.12.2025 14:08:01  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 199.127.62.109:5179 -> 31.28.11.106:5060
+27.12.2025 14:12:49  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 107.172.44.118:5174 -> 31.28.11.106:5060
+27.12.2025 14:13:21  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 185.243.5.171:5091 -> 31.28.11.106:5060
+27.12.2025 14:19:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:26  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:26  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:28  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:28  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:32  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:32  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:40  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:19:40  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:52649 -> 45.9.148.50:25
+27.12.2025 14:22:11  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 199.127.62.109:5096 -> 31.28.11.106:5060
+27.12.2025 14:45:14  | [Drop] [1:49987354:2] HackTool.Nmap.UDP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {UDP} 207.90.244.28:15780 -> 31.28.11.106:53
+27.12.2025 15:29:25  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:25  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:26  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:26  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:28  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:28  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:33  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:33  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:41  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:29:41  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:54732 -> 45.9.148.50:25
+27.12.2025 15:48:49  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 45.166.100.18:5322 -> 31.28.11.106:5060
+27.12.2025 16:09:12  | [Alert] [1:2029054:3] ET SCAN Zmap User-Agent (Inbound) [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 40.124.175.155:39228 -> 31.28.11.106:443
+27.12.2025 16:39:27  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:27  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:28  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:28  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:30  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:30  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:34  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:34  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:42  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:39:42  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:58096 -> 45.9.148.50:25
+27.12.2025 16:42:34  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 91.208.162.173:5272 -> 31.28.11.106:5060
+27.12.2025 16:52:21  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 198.23.185.117:5101 -> 31.28.11.106:5060
+27.12.2025 17:26:04  | [Drop] [1:57937093:4] HackTool.SIPScanner.SIP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 64.95.96.69:5125 -> 31.28.11.106:5060
+27.12.2025 17:45:38  | [Drop] [1:49987431:4] HackTool.Nmap.UDP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {UDP} 51.158.205.203:61000 -> 31.28.11.106:53
+27.12.2025 17:49:27  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:27  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:28  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:28  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:30  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:30  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:34  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:34  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:42  | [Drop] [1:47012138:286] NetTool.TorTool.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 17:49:42  | [Drop] [1:47012152:280] NetTool.TorToolE.TCP.C&C [Classification: Legal programs that can harm your computer] [Priority: 2] {TCP} 10.78.12.12:57286 -> 45.9.148.50:25
+27.12.2025 18:36:13  | [Drop] [1:56009370:9] Exploit.Agent.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 204.76.203.8:41694 -> 31.28.11.106:80
+27.12.2025 18:36:13  | [Drop] [1:67748101:2] Exploit.CVE-2024-3721.HTTP.C&C [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 204.76.203.8:41694 -> 31.28.11.106:80
